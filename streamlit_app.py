@@ -1,4 +1,7 @@
 import streamlit as st
+import plotly
+import plotly.figure_factory as ff
+
 
 st.title("🎈 Welcome to Streamlit")
 st.write(
